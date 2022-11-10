@@ -31,7 +31,7 @@ const HeaderBar = ({ open, handleDrawer }) => {
           <Menu />
         </IconButton>
         <img src={logo} alt="logo" style={{width: 30}} />
-        <Heading>Keep-Clone</Heading>
+        <Heading>Keep</Heading>
       </Toolbar>
     </Header>
   )
