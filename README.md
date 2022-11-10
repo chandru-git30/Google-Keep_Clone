@@ -1,5 +1,6 @@
 # Sonar Cloud
 
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=chandru-git30_Google-Keep_Clone&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=chandru-git30_Google-Keep_Clone)
 
 ## Demo
 
